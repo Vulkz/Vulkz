@@ -1,6 +1,6 @@
 ## Hi, I´m Vulkz :wave: 
 
-<img align = "right" src="https://cdn.discordapp.com/attachments/556580170061054005/826604142055260190/lobinho.gif">
+<img align = "right" src="lobinis.gif">
 
 My name is **Gabriel**, I´m new in the `technology world`. 
 
