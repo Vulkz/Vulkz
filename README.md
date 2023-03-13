@@ -14,6 +14,6 @@ get out of comfort zone and showed me the programming world, now I´m learning p
 ![](https://img.shields.io/badge/-CSS3-3776AB?style=for-the-badge&logo=CSS3&logoColor=242424)
 ![](https://img.shields.io/badge/-Python-4d55c9?style=for-the-badge&logo=Python&logoColor=242424)
 
-![Gabriel GitHub stats]([https://github-readme-stats.vercel.app/api?username=Vulkz&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
